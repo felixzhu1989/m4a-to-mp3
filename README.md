@@ -11,5 +11,8 @@ http://www.cygwin.cn/site/install/
 
 # 使用
 
-将`convert.sh`文件拷贝至目标目录，打开**Cygwin64 Terminal**，使用`cd`命令定位倒目标目录，输入`bash convert.sh`。
+将`convert.sh`文件拷贝至目标目录，打开**Cygwin64 Terminal**。
+
+使用`cd`命令定位倒目标目录，输入`bash convert.sh`。
+
 脚本将自动执行，新的mp3文件将生成在`newfiles`文件夹内。
