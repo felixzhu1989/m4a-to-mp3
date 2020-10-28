@@ -11,6 +11,8 @@ http://www.cygwin.cn/site/install/
 
 # 使用
 
+将地址`C:\cygwin64\bin`添加到系统环境变量的`path`中。
+
 将`convert.sh`文件拷贝至目标目录，打开**Cygwin64 Terminal**。
 
 使用`cd`命令定位倒目标目录，输入`bash convert.sh`。
